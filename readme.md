@@ -43,4 +43,4 @@
    - **Direct Deposit:** Automate salary payments directly to employee bank accounts.
 
 ## Support
-For support, please contact kamran.muhammad21@gmail.com.
+For support, please contact kamran.muhammad21@gmail.com
