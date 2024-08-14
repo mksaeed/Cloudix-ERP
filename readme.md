@@ -1,6 +1,6 @@
 # Cloudix ERP
 
-**Cloudix ERP** is a comprehensive and user-friendly Enterprise Resource Planning (ERP) system designed to streamline and automate the core business processes of your organization. With modules for Accounts, Accounts Payable, Accounts Receivable, Inventory, and Human Resources (including Payroll), Cloudix ERP provides an all-in-one solution for managing your business efficiently.
+**Cloudix ERP** is a cloud-based comprehensive and user-friendly Enterprise Resource Planning (ERP) system designed to streamline and automate the core business processes of your organization. With modules for Accounts, Accounts Payable, Accounts Receivable, Inventory, and Human Resources (including Payroll), Cloudix ERP provides an all-in-one solution for managing your business efficiently.
 
 ## Features
 
@@ -12,7 +12,7 @@
 ### 2. **Accounts Payable**
    - **Vendor Management:** Track and manage vendor details, including payment terms and contact information.
    - **Invoice Processing:** Automate the processing of invoices, including approval workflows.
-   - **Payment Processing:** Manage payments to vendors, including checks, ACH, and wire transfers.
+   - **Payment Processing:** Manage vendor payments, including checks, ACH, and wire transfers.
    - **Aging Reports:** Monitor outstanding liabilities and track payment schedules.
 
 ### 3. **Accounts Receivable**
@@ -43,4 +43,4 @@
    - **Direct Deposit:** Automate salary payments directly to employee bank accounts.
 
 ## Support
-For support, please contact kamran.muhammad21@gmail.com
+For support, please get in touch with kamran.muhammad21@gmail.com
